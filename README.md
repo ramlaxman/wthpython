@@ -1,5 +1,5 @@
 <p align="center"><img src="/images/logo.png" alt=""></p>
-<h1 align="center">What the f*ck Python! 😱</h1>
+<h1 align="center">What the hell Python! 😱</h1>
 <p align="center">Exploring and understanding Python through surprising snippets.</p>
 
 Translations: [Chinese 中文](https://github.com/leisurelicht/wtfpython-cn) | [Add translation](https://github.com/satwikkansal/wtfpython/issues/new?title=Add%20translation%20for%20[LANGUAGE]&body=Expected%20time%20to%20finish:%20[X]%20weeks.%20I%27ll%20start%20working%20on%20it%20from%20[Y].)
